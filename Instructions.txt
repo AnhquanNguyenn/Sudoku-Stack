@@ -1,0 +1,2 @@
+To start react application using yarn
+    yarn start
