@@ -30,7 +30,6 @@
   text-align: center;
   color: #888;
 }
-
 .field[readonly] {
   color: #222;
 }
@@ -42,4 +41,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.solveButton {
+  width: 5rem;
+  height: 3rem;
+  text-align: center;
+}
+
+.container {
+  padding-bottom: 10px;
 }
